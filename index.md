@@ -9,20 +9,23 @@ filename: index
 Join my Facebook Group and follow me on Instagram at @vera4pres
 Vote at pomonastudents.org/vote starting Sunday, March 27 at 8pm
 
-## Overview
-Hi everyone,
-intro
-I envision ASPC as …
-These are my five main goals: 
-bit.ly/vera4pres 
-Please reach out to me with any questions or concerns over text, Facebook, or email! I hope to have your support. 
+OVERVIEW
+Hi everyone! My name is Vera Berger and I’m running to be your next ASPC President. 
 
-## Platform Outline
-- Promote Student Leadership and Involvement in Institutional Processes
-- Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives
-- Equity and Inclusion in Academics
-- Center Students Through ASPC Initiatives
-- Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts
+Having been an ASPC senator, sponsor, and JBoard chair, I understand the student struggle with administration. I see senate in its potential to work alongside students—it’s important to remember that ASPC is both a nonprofit operating independently of the College and an organization with the power to make institutional change. This means we can financially support student clubs, mentor groups, and projects, and also advocate for students' needs with administrators. 
+
+In my time at Pomona, I’ve worked to represent student voices in 5+ administrative committees, increase access to resources like period products and water refill stations, and create equitable college policy. I have the experience to run ASPC smoothly, and also to understand what needs to change.
+
+Through conversations with fellow members of ASPC, head mentors, peers, and administrators, I’ve developed a platform that is dynamic and actionable. My five main goals are as follows.
+Promote Student Leadership and Involvement in Institutional Processes
+Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives
+Equity and Inclusion in Academics
+Center Students Through ASPC Initiatives
+Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts
+
+Please reach out to me at (505)227-4516 or vlba2019@mymail.pomona.edu with any questions, suggestions, or concerns! I hope to have your support. 
+
+- Ver
 
 # Platform
 

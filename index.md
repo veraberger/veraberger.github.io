@@ -23,14 +23,14 @@ Through conversations with fellow members of ASPC, head mentors, peers, and admi
 
 2. Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives
 
-3. Equity and Inclusion in Academics
+3. Foster Equity and Inclusion in Academics
 
 4. Center Students Through ASPC Initiatives
 Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts
 
-Please reach out to me at (505)227-4516 or vlba2019@mymail.pomona.edu with any questions, suggestions, or concerns! I hope to have your support. 
+Please reach out to me at (505)227-4516 or [vlba2019@mymail.pomona.edu](mailto:vlba2019@mymail.pomona.edu?subject=[ASPC] with any questions, suggestions, or concerns! I hope to have your support. 
 
-- Vera
+Vera
 
 # Platform
 
@@ -127,7 +127,7 @@ Divest from fossil fuels responsibly
 + Push for Environmental, Social and Governance in Pomona’s investment policy for its endowment—criteria for Pomona to invest in companies that are sustainable or socially conscious
 + Advocate for a carbon fee on departments for heat- and electricity-associated emissions; use funds gathered from the fee to finance campus sustainability projects
 
-Student leadership
+### Student leadership
 + Work to get a second student representative on the Board of Trustees Facilities and Environment Committee
 + Provide ASPC-funded stipends to student representatives on the President’s Advisory Committee on Sustainability
 

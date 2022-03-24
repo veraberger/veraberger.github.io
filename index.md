@@ -9,7 +9,7 @@ filename: index
 Join my [Facebook Group](https://www.facebook.com/groups/654089445849890) and follow me on Instagram at [@vera4pres](https://www.instagram.com/vera4aspc/)
 Vote at [pomonastudents.org/vote](https://pomonastudents.org/vote) starting Sunday, March 27 at 8pm
 
-# Platform
+# Overview
 
 Hi everyone! My name is Vera Berger and I’m running to be your next ASPC President. My platform is grounded in experience, leadership, and a vision for change.
 

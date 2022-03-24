@@ -1,7 +1,7 @@
 ---
 title: qualifications
 layout: template
-filename: howto
+filename: qualifications
 --- 
 
 # Qualifications
@@ -10,7 +10,7 @@ Lead Chair, JBoard, 21-22
 + Removed fines from the Student Code, wrote policy to give students going through the conduct process more agency, published semester reports for institutional transparency
 
 ASPC Commissioner of Facilities and Environment, 20-21
-+ Successfully advocated for increased outdoor lighting on South Campus, installation of water refill stations in Lyon and Dialynas, and period product disposal bins in bathrooms
++ Successfully advocated for increased outdoor lighting on South Campus, installation of water refill stations in Lyon and Dialynas, and period products in bathrooms
 
 Student Rep, President’s Advisory Committee on Sustainability, 20-22
 + Discuss next steps for Pomona to become carbon neutral, broadened criteria for the President’s Sustainability Fund (this allowed for students to be compensated to pursue projects like Mindful Mondays!)

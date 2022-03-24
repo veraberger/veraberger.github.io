@@ -21,13 +21,13 @@ filename: howto
 ## Member, ASPC Food Committee, 21-22
 + Worked to get meal equivalency at food trucks, reintroduced snack and Farm to Frank
 
-Math and Astronomy mentor, 20-22
+### Math and Astronomy mentor, 20-22
 
-Physics Department liaison, 20-22
+### Physics Department liaison, 20-22
 
-Student Rep, Board of Trustees Facilities and Environment Committee, 20-21
+### Student Rep, Board of Trustees Facilities and Environment Committee, 20-21
 
-Student Rep, Center for Global Engagement Stakeholders group (for the new Oldenborg), 20-21
+### Student Rep, Center for Global Engagement Stakeholders group (for the new Oldenborg), 20-21
 
 QQMP mentor, 20-21
 

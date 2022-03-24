@@ -1,5 +1,5 @@
 ---
-title: platform
+title: PLATFORM
 layout: template
 filename: index
 --- 

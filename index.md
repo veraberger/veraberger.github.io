@@ -28,7 +28,7 @@ Through conversations with fellow members of ASPC, head mentors, peers, and admi
 4. Center Students Through ASPC Initiatives
 Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts
 
-Please reach out to me at (505)227-4516 or [vlba2019@mymail.pomona.edu](mailto:vlba2019@mymail.pomona.edu?subject=[ASPC] with any questions, suggestions, or concerns! I hope to have your support. 
+Please reach out to me at (505)227-4516 or [vlba2019@mymail.pomona.edu](mailto:vlba2019@mymail.pomona.edu?subject=[ASPC]) with any questions, suggestions, or concerns! I hope to have your support. 
 
 Vera
 

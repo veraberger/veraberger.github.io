@@ -29,8 +29,8 @@ filename: howto
 
 ### Student Rep, Center for Global Engagement Stakeholders group (for the new Oldenborg), 20-21
 
-QQMP mentor, 20-21
+### QQMP mentor, 20-21
 
-Sponsor, 20-21
+### Sponsor, 20-21
 
-JBoard panelist, 19-21
+### JBoard panelist, 19-21

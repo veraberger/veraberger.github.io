@@ -1,7 +1,7 @@
 ---
 title: qualifications
 layout: template
-filename: qualifications
+filename: howto
 --- 
 
 # Qualifications

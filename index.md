@@ -132,7 +132,7 @@ Divest from fossil fuels responsibly
 + Provide ASPC-funded stipends to student representatives on the President’s Advisory Committee on Sustainability
 
 
-![be one of vera's bergers today!](Impossible-Burger.png)
+![be one of vera's bergers today!](endplatform.png)
 
 
 

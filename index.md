@@ -1,5 +1,5 @@
 ---
-title: vera's bergers!
+title: platform
 layout: template
 filename: index
 --- 
@@ -7,7 +7,7 @@ filename: index
 # Vote for Vera!
 
 Join my Facebook Group and follow me on Instagram at @vera4pres
-Vote at pomonastudents.org/vote starting Sunday, March 27 at 8pm
+Vote at [pomonastudents.org/vote](https://pomonastudents.org/vote) starting Sunday, March 27 at 8pm
 
 ## OVERVIEW
 

@@ -4,14 +4,14 @@ layout: template
 filename: index
 --- 
 
-# Vote for Vera!
+# Vote for Vera:
 
 Join my Facebook Group and follow me on Instagram at @vera4pres
 Vote at [pomonastudents.org/vote](https://pomonastudents.org/vote) starting Sunday, March 27 at 8pm
 
-## OVERVIEW
+# Platform
 
-Hi everyone! My name is Vera Berger and I’m running to be your next ASPC President. 
+Hi everyone! My name is Vera Berger and I’m running to be your next ASPC President. My platform is grounded in experience, leadership, and a vision for change.
 
 Having been an ASPC senator, sponsor, and JBoard chair, I understand the student struggle with administration. I see senate in its potential to work alongside students—it’s important to remember that ASPC is both a nonprofit operating independently of the College and an organization with the power to make institutional change. This means we can financially support student clubs, mentor groups, and projects, and also advocate for students' needs with administrators. 
 

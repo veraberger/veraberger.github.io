@@ -7,6 +7,7 @@ filename: index
 # Vote for Vera!
 
 Join my [Facebook Group](https://www.facebook.com/groups/654089445849890) and follow me on Instagram at [@vera4pres](https://www.instagram.com/vera4aspc/)
+
 Vote at [pomonastudents.org/vote](https://pomonastudents.org/vote) starting Sunday, March 27 at 8pm
 
 # Overview

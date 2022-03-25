@@ -4,6 +4,8 @@ layout: template
 filename: index
 --- 
 
+![be one of vera's bergers today!](pres.png)
+
 # Vote for Vera!
 
 Join my [Facebook Group](https://www.facebook.com/groups/654089445849890) and follow me on Instagram at [@vera4aspc](https://www.instagram.com/vera4aspc/)

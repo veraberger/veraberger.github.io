@@ -46,7 +46,7 @@ Vera
 + Increase weekly hours limit for student workers to pre-pandemic allotment of 20 hr/week
 + Advocate for on-campus jobs to be stipend-based for student workers that cannot get a social security number
  
-## Advance Physical, Social, and Emotional Wellness through<span id="goal2"> Individual- and Community-focused Initiatives
+## <span id="goal2">Advance Physical, Social, and Emotional Wellness through Individual- and Community-focused Initiatives
 
 ### Physical and mental health
 + Collaborate with TCCS and Comm. of Wellness to reopen the Health Education Outreach (HEO) office 

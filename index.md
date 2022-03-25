@@ -20,7 +20,7 @@ In my time at Pomona, I’ve worked to represent student voices in 5+ administra
 
 Through conversations with fellow members of ASPC, head mentors, peers, and administrators, I’ve developed a platform that is dynamic and actionable. My five main goals are as follows.
 
-1. [Promote Student Leadership and Involvement in Institutional Processes](## Promote Student Leadership and Involvement in Institutional Processes)
+1. [Promote Student Leadership and Involvement in Institutional Processes](##promote-student-leadership-and-involvement-in-institutional-processes)
 2. [Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives](## Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives)
 3. [Foster Equity and Inclusion in Academics](## Foster Equity and Inclusion in Academics)
 4. [Center Students Through ASPC Initiatives](## Center Students Through ASPC Initiatives)

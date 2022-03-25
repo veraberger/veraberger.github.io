@@ -32,7 +32,7 @@ Vera
 
 # Platform
 
-## Promote Student Leadership and Involvement in Institutional<span id="goal1"> Processes
+## <span id="goal1"> Promote Student Leadership and Involvement in Institutional Processes
 
 ### Fund mentor groups, regardless of department or student-led status, because mentor groups should not have to choose between institutional support and autonomy. 
 
@@ -115,7 +115,7 @@ Reinstate the Senate Grant Project: allow students to apply for Senate grants to
 Pomona is behind on its goal to be carbon neutral by 2030. As President, I will push the College to divest from fossil fuels responsibly and counteract remaining emissions with a carbon fee and investment in sustainability-minded projects.
 
 ### ASPC 
-+ Work with Facilities and Env Comm. to conduct in-depth analysis of ASPC-associated emissions and develop a plan to become carbon neutral
++ Work with Comm. of Facilities and Environment to conduct in-depth analysis of ASPC-associated emissions and develop a plan to become carbon neutral
 + Hold zero-waste events in collaboration with PEC and the Sustainability Office
 
 ### Pomona

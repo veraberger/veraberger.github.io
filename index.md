@@ -21,10 +21,10 @@ In my time at Pomona, I’ve worked to represent student voices in 5+ administra
 Through conversations with fellow members of ASPC, head mentors, peers, and administrators, I’ve developed a platform that is dynamic and actionable. My five main goals are as follows.
 
 1. [Promote Student Leadership and Involvement in Institutional Processes](#goal1)
-2. [Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives](## Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives)
-3. [Foster Equity and Inclusion in Academics](## Foster Equity and Inclusion in Academics)
-4. [Center Students Through ASPC Initiatives](## Center Students Through ASPC Initiatives)
-5. [Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts](## Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts)
+2. [Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives](#goal2)
+3. [Foster Equity and Inclusion in Academics](#goal3)
+4. [Center Students Through ASPC Initiatives](#goal4)
+5. [Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts](#goal5)
 
 Please reach out to me at (505)227-4516 or [vlba2019@mymail.pomona.edu](mailto:vlba2019@mymail.pomona.edu?subject=[ASPC]) with any questions, suggestions, or concerns! I hope to have your support. 
 
@@ -32,7 +32,7 @@ Vera
 
 # Platform
 
-## Promote Student Leadership and Involvement in Institutional Processes<span id="goal1">
+## Promote Student Leadership and Involvement in Institutional<span id="goal1"> Processes
 
 ### Fund mentor groups, regardless of department or student-led status, because mentor groups should not have to choose between institutional support and autonomy. 
 
@@ -46,7 +46,7 @@ Vera
 + Increase weekly hours limit for student workers to pre-pandemic allotment of 20 hr/week
 + Advocate for on-campus jobs to be stipend-based for student workers that cannot get a social security number
  
-## Advance Physical, Social, and Emotional Wellness through Individual- and Community-focused Initiatives
+## Advance Physical, Social, and Emotional Wellness through<span id="goal2"> Individual- and Community-focused Initiatives
 
 ### Physical and mental health
 + Collaborate with TCCS and Comm. of Wellness to reopen the Health Education Outreach (HEO) office 
@@ -78,7 +78,7 @@ Vera
 + Work with the Comm. of Campus Events to plan and hold safe 5C events
 
 
-## Foster Equity and Inclusion in Academics
+## Foster Equity and Inclusion in Academics<span id="goal3">
 + Put a referendum for the student body on the Fall ASPC ballot on implementing shadow grading for first-semester freshmen—students voted to establish shadow grading in 2020, but no steps have been made since. If students are still interested, ASPC will present the case to the faculty Curriculum Committee
 + Continue student initiatives to make lab courses count for credit in conversations with the Dean of the College
 + Develop criteria and resources for professors to cultivate inclusive learning environments—Pomona has an “inclusive teaching requirement” for faculty, but currently gives no specific criteria and has no way to evaluate tenured professors
@@ -87,7 +87,7 @@ Vera
 + Get a student representative on the Academic Standards Committee charged with reviewing the academic standing of students
 + Work with Registrar to include a label on the course registration portal for professors that offer hybrid learning options
 
-## Center Students Through ASPC Initiatives
+## Center Students Through ASPC Initiatives<span id="goal4">
 
 ### Redirect Funds to Students
 + Since ASPC transferred ownership of the Coop Fountain to the College, we have significant funds to redirect to students.
@@ -110,7 +110,7 @@ Reinstate the Senate Grant Project: allow students to apply for Senate grants to
 + Refine the structure of committees chaired by senators to ensure more support and communication with relevant divisions of the College and ASPC Executive Council 
 
 
-## Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts
+## Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts<span id="goal5">
 
 Pomona is behind on its goal to be carbon neutral by 2030. As President, I will push the College to divest from fossil fuels responsibly and counteract remaining emissions with a carbon fee and investment in sustainability-minded projects.
 

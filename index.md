@@ -6,7 +6,7 @@ filename: index
 
 # Vote for Vera!
 
-Join my [Facebook Group](https://www.facebook.com/groups/654089445849890) and follow me on Instagram at [@vera4pres](https://www.instagram.com/vera4aspc/)
+Join my [Facebook Group](https://www.facebook.com/groups/654089445849890) and follow me on Instagram at [@vera4aspc](https://www.instagram.com/vera4aspc/)
 
 Vote at [pomonastudents.org/vote](https://pomonastudents.org/vote) starting Sunday, March 27 at 8pm
 
@@ -20,14 +20,11 @@ In my time at Pomona, I’ve worked to represent student voices in 5+ administra
 
 Through conversations with fellow members of ASPC, head mentors, peers, and administrators, I’ve developed a platform that is dynamic and actionable. My five main goals are as follows.
 
-1. Promote Student Leadership and Involvement in Institutional Processes
-
-2. Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives
-
-3. Foster Equity and Inclusion in Academics
-
-4. Center Students Through ASPC Initiatives
-Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts
+1. [Promote Student Leadership and Involvement in Institutional Processes](## Promote Student Leadership and Involvement in Institutional Processes)
+2. [Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives](## Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives)
+3. [Foster Equity and Inclusion in Academics](## Foster Equity and Inclusion in Academics)
+4. [Center Students Through ASPC Initiatives](## Center Students Through ASPC Initiatives)
+5. [Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts](## Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts)
 
 Please reach out to me at (505)227-4516 or [vlba2019@mymail.pomona.edu](mailto:vlba2019@mymail.pomona.edu?subject=[ASPC]) with any questions, suggestions, or concerns! I hope to have your support. 
 

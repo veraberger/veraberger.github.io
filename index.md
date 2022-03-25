@@ -17,17 +17,15 @@ Vote at [pomonastudents.org/vote](https://pomonastudents.org/vote) starting Sund
 
 Hi everyone! My name is Vera Berger and I’m running to be your next ASPC President. My platform is grounded in experience, leadership, and a vision for change.
 
-Having been an ASPC senator, sponsor, and JBoard chair, I understand the student struggle with administration. I see senate in its potential to work alongside students—it’s important to remember that ASPC is both a nonprofit operating independently of the College and an organization with the power to make institutional change. This means we can financially support student clubs, mentor groups, and projects, and also advocate for students' needs with administrators. 
-
-In my time at Pomona, I’ve worked to represent student voices in 5+ administrative committees, increase access to resources like period products and water refill stations, and create equitable college policy. I have the experience to run ASPC smoothly, and also to understand what needs to change.
-
-Through conversations with fellow members of ASPC, head mentors, peers, and administrators, I’ve developed a platform that is dynamic and actionable. My five main goals are as follows.
+I see senate in its potential to uplift students financially and in advocacy—it’s important to remember that ASPC is both a nonprofit operating independently of the College and an organization with power to make institutional change. We can provide student clubs, mentor groups, and projects with ASPC funding, and represent student voices with administrators. Through conversations with fellow members of ASPC, head mentors, peers, and administrators, I’ve developed a platform for the presidency that is ambitious, dynamic and actionable. My five main goals are as follows.
 
 1. [Promote Student Leadership and Involvement in Institutional Processes](#goal1)
 2. [Advance Physical, Social, and Emotional Wellness Through Individual- and Community-Focused Initiatives](#goal2)
 3. [Foster Equity and Inclusion in Academics](#goal3)
 4. [Center Students Through ASPC Initiatives](#goal4)
 5. [Accelerate Pomona’s and ASPC’s Carbon Neutrality Efforts](#goal5)
+
+Having been an ASPC senator, sponsor, mentor, and JBoard chair, I understand student struggle with administration. In my time at Pomona, I’ve worked to represent students in 5+ administrative committees, increase access to resources like period products and water refill stations, and create equitable college policy. **I have the experience to lead ASPC smoothly and to understand what needs to change.**
 
 Please reach out to me at (505)227-4516 or [vlba2019@mymail.pomona.edu](mailto:vlba2019@mymail.pomona.edu?subject=[ASPC]) with any questions, suggestions, or concerns! I hope to have your support. 
 

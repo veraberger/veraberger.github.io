@@ -10,6 +10,7 @@ filename: story
 + Adeena Liang, Vice President of Finance
 + Timothy Liu, North Campus Representative
 + Deanna Han, Junior Class President
++ Andy Xu, Sophomore Class President
 
 
 ## Messages of Support:

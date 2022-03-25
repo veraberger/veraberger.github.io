@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-![](pres.png)
+<img src="pres.png" width="600">
 
 # Vote for Vera!
 
@@ -132,7 +132,7 @@ Divest from fossil fuels responsibly
 + Provide ASPC-funded stipends to student representatives on the President’s Advisory Committee on Sustainability
 
 
-![be one of vera's bergers today!](endplatform.png)
+<img src="endplatform.png" width="600">
 
 
 

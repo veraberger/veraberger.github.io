@@ -15,4 +15,4 @@ filename: story
 
 ## Messages of Support:
 
-“I have had the privilege of working with Vera the past few years and I am confident in saying that she is a very hard and dedicated worker. She has already implemented huge and positive changes on Pomona’s campus and I know she will only continue to do so in a position like this.” - Andreah Pierre
+“I have had the privilege of working with Vera the past few years and I am confident in saying that she is a very hard and dedicated worker. She has already implemented huge and positive changes on Pomona’s campus and I know she will only continue to do so in a position like this.” - Andreah Pierre, Senior Class President

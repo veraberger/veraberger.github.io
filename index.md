@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-![be one of vera's bergers today!](pres.png | width=75)
+![](pres.png)
 
 # Vote for Vera!
 

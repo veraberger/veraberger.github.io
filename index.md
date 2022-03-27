@@ -38,7 +38,7 @@ Vera
 ### Fund mentor groups, regardless of department or student-led status, because mentor groups should not have to choose between institutional support and autonomy. 
 
 + Utilize interest from ASPC’s endowment to provide mentor groups with programming funding, and ensure those groups maintain their $4500 annual programming budget (rather than $1000 or $3450 as student- or department-led groups as of next school year)
-+ Allocate additional funds proportional to mentor groups’ number of mentees
++ Allocate additional funds by request proportional to mentor groups’ number of mentees
 + Work with Student Affairs to ensure department-led mentor groups are overseen by culturally competent administrators
 
 ### Involve and embed students in institutional processes and compensate them for their work.
@@ -81,6 +81,7 @@ Vera
 
 ## Foster Equity and Inclusion in Academics<span id="goal3">
 + Put a referendum for the student body on the Fall ASPC ballot on implementing shadow grading for first-semester freshmen—students voted to establish shadow grading in 2020, but no steps have been made since. If students are still interested, ASPC will present the case to the faculty Curriculum Committee
++ Extend ASPC's promise to work with immunocompromised students individually, and work with Comm. of Facilities and Environment to better equip classrooms with hybrid learning capabilities such as video/audio systems and tracking cameras
 + Continue student initiatives to make lab courses count for credit in conversations with the Dean of the College
 + Develop criteria and resources for professors to cultivate inclusive learning environments—Pomona has an “inclusive teaching requirement” for faculty, but currently gives no specific criteria and has no way to evaluate tenured professors
 + Work with STEM departments to revisit weeder classes and develop more accessible introductory coursework

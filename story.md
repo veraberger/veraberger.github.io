@@ -12,6 +12,9 @@ filename: story
 + Deanna Han, Junior Class President
 + Andy Xu, Sophomore Class President
 
+## Organizations
++ Divest Claremont Colleges
+
 
 ## Messages of Support:
 

@@ -7,6 +7,7 @@ filename: story
 # Current Endorsements
 
 ## Current ASPC Senators Eligible to Give Endorsements: 
++ Patrick Liu, Vice President of Academic Affairs
 + Adeena Liang, Vice President of Finance
 + Timothy Liu, North Campus Representative
 + Deanna Han, Junior Class President

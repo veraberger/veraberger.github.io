@@ -6,6 +6,7 @@ filename: index
 <p align="center">
 <img src="pres.png" width="600">
  </p>
+ <meta name="google-site-verification" content="xEnUk2V2-XtOhcEGf99du7CBnP7cdAhW6ldh47R87dc" />
 
 # Vote for Vera!
 

@@ -1,5 +1,5 @@
 ---
-title: research
+title: Research
 layout: template
 filename: howto
 --- 

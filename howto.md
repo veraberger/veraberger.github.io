@@ -1,36 +1,30 @@
 ---
-title: qualifications
+title: research
 layout: template
 filename: howto
 --- 
 
-# Qualifications
+# Research
 
-## Lead Chair, JBoard, 21-22
-+ Removed fines from the Student Code, wrote policy to give students going through the conduct process more agency, published semester reports for institutional transparency
+## Stellar Flares
+Stellar flares are energetic releases of radiation caused by reconnection of magnetic field lines. Flares may threaten or promote the creation of life on exoplanets of orbiting stars. 
 
-## ASPC Commissioner of Facilities and Environment, 20-21
-+ Successfully advocated for increased outdoor lighting on South Campus, installation of water refill stations in Lyon and Dialynas, and period products in bathrooms
+As an REU intern at the University of Hawai'i at Manoa, I conducted a large-scale study of UV flares on the nearest stars using far- and near-ultraviolet observations from the NASA's Galaxy Evolution Explorer (GALEX).
 
-## Student Rep, President’s Advisory Cmte on Sustainability, 20-22
-+ Discuss next steps for Pomona to become carbon neutral, broadened criteria for the President’s Sustainability Fund (this allowed for students to be compensated to pursue projects like Mindful Mondays!)
+## Supernova Host Galaxies
+Despite the importance of Type Ia supernovae (SNe Ia) as cosmological distance indicators, much remains unknown about the environments in which they happen. Past studies have shown that supernova properties relate to host galaxy properties, and that SN Ia host galaxies are similar to random field galaxies. Research on host properties has largely focused on more luminous galaxies, leaving low-luminosity hosts under-sampled. 
 
-## Student Rep, Board of Trustees Educational Quality Cmte, 21-22
-+ Share student experience with the state of academics at Pomona; advocate for more institutional support of STEM departments that are strained for resources
+As an intern at Carnegie Observatories, I conducted a spectroscopic analysis of 45 dim host galaxies of nearby supernovae detected by the All-Sky Automated Survey for Supernovae (ASAS-SN). Using the emission lines from our dataset I measured metallicities and star formation rates,and compared host galaxy properties to SDSS field galaxies and previous SN Ia host samples. 
 
-## Member, ASPC Food Committee, 21-22
-+ Worked to get meal equivalency at food trucks, reintroduced snack and Farm to Frank
+We find that the least massive hosts of Type Ia supernova may have higher metallicities than field galaxies of similar mass, and star formation activity representative of normal field galaxies.
 
-### Math and Astronomy mentor, 20-22
+## Side Projects
+### Density and Age Estimates for Messier 15
+Globular clusters are collections of gravitationally-bound stars formed roughly all at once. Using photometry, we can construct color-magnitude diagrams alongside stellar evolution models to place constrains on the ages and distances of these clusters. 
 
-### Physics Department liaison, 20-22
+I rook archival data from the Hubble Space Telescope's Advanced Camera for Surveys and performed multi-object aperture photometry on Messier 15, a dense globular cluster containing over 100,000 stars. I used images taken in two filters: a wide V-band filter called F606W, and  a filter bordering the near-infrared, F814W. Using $YY^2$ Yale Yonsei stellar evolution isochrones we estimate a minimum cluster age of 11.5 Gyrs, $\pm$ 1 Gyr. We compute a distance of $47,863$ pc.
 
-### Student Rep, Board of Trustees Facilities and Environment Committee, 20-21
+### Photometric Variability of $\delta$ Scuti Stars
+$\delta$ Scuti is a class of variable stars that undergo radial oscillations. Like Cepheids, $\delta$ Scuti stars may be used as cosmological distance indicators, or ``standard candles." Given photometric observational data, we can plot a star's light curve and glean information about how stellar properties like luminosity, temperature, and radius are correlated as the star pulsates. 
 
-### Student Rep, Center for Global Engagement Stakeholders group (for the new Oldenborg), 20-21
-
-### QQMP mentor, 20-21
-
-### Sponsor, 20-21
-
-### JBoard panelist, 19-21
+In this project, I observed a field of view containing a mystery star using the TMO 1-m telescope (FOV 6.3'x6.3').  I performed data reduction and photometry to isolate a star displaying varying brightness over time, calculated a period of variability of 102 minutes and observed temperature and luminosity trends consistent with those of $\delta$ Scuti stars.

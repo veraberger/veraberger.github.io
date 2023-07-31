@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: template
+layout: research
 filename: howto
 --- 
 

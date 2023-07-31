@@ -1,5 +1,5 @@
 ---
 title: CV
 layout: template
-filename: cv
+filename: index
 --- 

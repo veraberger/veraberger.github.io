@@ -1,5 +1,5 @@
 ---
-title: Vera Berger
+title: intro
 layout: template
 filename: index
 --- 

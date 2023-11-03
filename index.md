@@ -1,5 +1,5 @@
 ---
-title: intro
+title: Intro
 layout: template
 filename: index
 --- 

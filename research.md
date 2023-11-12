@@ -6,10 +6,10 @@ filename: research
 
 # Research
 
-## Stellar Flares
-Stellar flares are energetic releases of radiation caused by reconnection of magnetic field lines. Flares may threaten or promote the creation of life on exoplanets of orbiting stars. 
+I am primarily interested in stars' dynamic lives and interactions with the surrounding environment. I have pursued projects on stellar evolution, energetic flares and end-of-life supernova events. Currently, I study stellar flares and their potential impact on the habitability of orbiting planets.
 
-As an REU intern at the University of Hawai'i at Manoa, I conducted a large-scale study of UV flares on the nearest stars using far- and near-ultraviolet observations from the NASA's Galaxy Evolution Explorer (GALEX).
+## Stellar Flares
+Stellar flares are energetic releases of radiation caused by reconfiguration of stellar magnetic fields. Flares may threaten or promote the creation of life on exoplanets that orbit flaring stars. As an REU intern at the University of Hawai'i at Manoa, I searched for flares on 300,000 nearby stars using far- and near-ultraviolet observations from the NASA's Galaxy Evolution Explorer (GALEX). 
 
 ## Supernova Host Galaxies
 Despite the importance of Type Ia supernovae (SNe Ia) as cosmological distance indicators, much remains unknown about the environments in which they happen. Past studies have shown that supernova properties relate to host galaxy properties, and that SN Ia host galaxies are similar to random field galaxies. Research on host properties has largely focused on more luminous galaxies, leaving low-luminosity hosts under-sampled. 

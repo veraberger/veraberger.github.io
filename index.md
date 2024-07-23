@@ -3,7 +3,7 @@ title: About
 layout: template
 filename: index
 --- 
-Hi! I'm Vera. 
+#Hi! I'm Vera. 
 
 <div style="display: flex; align-items: center;">
     <img src="headshot_cam_cropped.jpg" alt="Headshot" style="margin: auto; width: 400px;">

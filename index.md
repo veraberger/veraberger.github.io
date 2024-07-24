@@ -10,7 +10,7 @@ filename: index
 </div>
 
 ## Bio
-I am a Churchill Scholar and MPhil candidate in Scientific Computing at the University of Cambridge. My research interests lie in the dynamic lives of stars and their interactions with the surrounding environment—currently, I study stellar flares using simulation and observations across the electromagnetic spectrum as part of a greater attempt to characterise the impact of stellar flares on the search for habitable exoplanets. My master's thesis focuses on magnetohydrodynamic simulations of magnetic reconnection, a fundamental but mysterious change in stellar magnetic field topology which produces flares.
+I am a Churchill Scholar and MPhil candidate in Scientific Computing at the University of Cambridge. My research interests lie in the dynamic lives of stars and their interactions with the surrounding environment—currently, I study stellar flares using simulation and observations across the electromagnetic spectrum to characterise the impact of flares on the search for habitable planets. My master's thesis focuses on magnetohydrodynamic simulations of magnetic reconnection, a fundamental but mysterious change in stellar magnetic field topology which produces stellar flares.
 
 This fall, I'll begin a PhD in Physics at the Massachusetts Institute of Technology (MIT) to study high-energy astrophysics supported by an NSF Graduate Research Fellowship and MIT Dean of Science Fellowship.
 

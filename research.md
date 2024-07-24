@@ -6,10 +6,13 @@ filename: research
 
 # Research
 
-I am primarily interested in stars' dynamic lives and interactions with the surrounding environment. I have pursued projects on stellar evolution, energetic flares and end-of-life supernova events. Currently, I study stellar flares and their potential impact on the habitability of orbiting planets.
+I am primarily interested in stars' dynamic lives and interactions with the surrounding environment. I have pursued projects on stellar evolution, energetic flares and supernovae. Currently, I study stellar flares and their potential impact on the habitability of orbiting planets.
 
 ## Stellar Flares
-Stellar flares are energetic releases of radiation caused by reconfiguration of stellar magnetic fields. Flares may threaten or promote the creation of life on exoplanets that orbit flaring stars. As an REU intern at the University of Hawai'i at Manoa, I searched for flares on 300,000 nearby stars using far- and near-ultraviolet observations from the NASA's Galaxy Evolution Explorer (GALEX). 
+Stellar flares are energetic bursts of radiation caused by reconfiguration of stellar magnetic fields. Ultraviolet (UV) emission from stellar flares plays a crucial role in determining the habitability of exoplanetary systems. Flare UV emission may drive prebiotic chemistry, erode planetary atmospheres, or produce false biosignatures.
+
+What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most comprehensive statistical analysis of UV flares with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected stellar flares are far-ultraviolet luminous, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe (paper in press).
+<embed src="arxiv_fuvflares.pdf" type="application/pdf" width="80%" height=200>
 
 ## Supernova Host Galaxies
 Despite the importance of Type Ia supernovae (SNe Ia) as cosmological distance indicators, much remains unknown about the environments in which they happen. Past studies have shown that supernova properties relate to host galaxy properties, and that SN Ia host galaxies are similar to random field galaxies. Research on host properties has largely focused on more luminous galaxies, leaving low-luminosity hosts under-sampled. 

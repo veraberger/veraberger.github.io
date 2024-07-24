@@ -12,13 +12,13 @@ I am primarily interested in stars' dynamic lives and interactions with the surr
 Stellar flares are energetic bursts of radiation caused by a rapid reconfiguration of stellar magnetic fields. 
 
 ### Flares in the UV
-Ultraviolet (UV) emission from stellar flares plays a crucial role in determining the habitability of exoplanetary systems. Flare UV emission may drive prebiotic chemistry, erode planetary atmospheres, or produce false biosignatures.
+Ultraviolet (UV) emission from stellar flares plays a crucial role in determining the **habitability** of exoplanetary systems. Flare UV emission may drive prebiotic chemistry, erode planetary atmospheres, or produce false biosignatures.
 
-What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most comprehensive statistical analysis of UV flares with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected stellar flares are far-ultraviolet luminous, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe (paper in press).
+What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most **comprehensive statistical analysis of UV flares** with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected **stellar flares are far-ultraviolet luminous**, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe (paper in press).
 <embed src="arxiv_fuvflares.pdf" type="application/pdf" width="80%" height=200>
 
 ### Deep learning for flare detection
-I'm developing a neural network to identify flares in 20-second cadence observations from the Transiting Exoplanet Survey Satellite (TESS). With this model, a user can input a target name and observation dates, and the network will download and process all TESS data within the given timespan and output predictions for flares.
+I'm developing a neural network to identify flares in 20-second cadence observations from the Transiting Exoplanet Survey Satellite (TESS). With this model, a user can input a target name and observation dates, and **the network will download and process all TESS data within the given timespan and output predictions** for flares.
 
 <div style="display: flex; align-items: center;">
     <img src="flare_predictions.png" alt="Flare predictions" style="margin: auto; width: 600px;">
@@ -29,7 +29,7 @@ While the model is in the final stages of development, the project is available 
 ## Supernova Host Galaxies
 Despite the importance of Type Ia supernovae (SNe Ia) as cosmological distance indicators, much remains unknown about the environments in which they happen. Past studies have shown that supernova properties relate to host galaxy properties, and that SN Ia host galaxies are similar to random field galaxies. Research on host properties has largely focused on more luminous galaxies, leaving low-luminosity hosts under-sampled. 
 
-As an intern at Carnegie Observatories, I conducted a spectroscopic analysis of 45 dim host galaxies of nearby supernovae detected by the All-Sky Automated Survey for Supernovae (ASAS-SN). Using the emission lines from our dataset I measured metallicities and star formation rates,and compared host galaxy properties to SDSS field galaxies and previous SN Ia host samples. 
+As an intern at Carnegie Observatories, I conducted a spectroscopic analysis of 45 dim host galaxies of nearby supernovae detected by the All-Sky Automated Survey for Supernovae (ASAS-SN). Using the emission lines from our dataset I measured metallicities and star formation rates, and compared host galaxy properties to SDSS field galaxies and previous SN Ia host samples. 
 
 We find that the least massive hosts of Type Ia supernova may have higher metallicities than field galaxies of similar mass, and star formation activity representative of normal field galaxies.
 

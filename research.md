@@ -6,7 +6,8 @@ filename: research
 
 # Research
 
-I am primarily interested in stars' dynamic lives and interactions with the surrounding environment. I have pursued projects on stellar evolution, energetic flares and supernovae. Currently, I study stellar flares and their potential impact on the habitability of orbiting planets.
+I am primarily interested in how stars change on short timescales (even seconds or minutes!) and how those changes impact the surrounding environment.
+Currently, I study stellar flares and their potential impact on the habitability of orbiting planets.
 
 ## Stellar Flares
 Stellar flares are energetic bursts of radiation caused by a rapid reconfiguration of stellar magnetic fields. 
@@ -16,6 +17,11 @@ Ultraviolet (UV) emission from stellar flares plays a crucial role in determinin
 
 What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most **comprehensive statistical analysis of UV flares** with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected **stellar flares are far-ultraviolet luminous**, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe (paper in press).
 <embed src="arxiv_fuvflares.pdf" type="application/pdf" width="80%" height=200>
+
+I've also been experimenting with data sonification; here's a sonified flare light curve in the near-UV with pitch corresponding to brightness. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GS9zs6-GDws?si=R0ovySS7AW7R5hLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Deep learning for flare detection
 I'm developing a neural network to identify flares in 20-second cadence observations from the Transiting Exoplanet Survey Satellite (TESS). With this model, a user can input a target name and observation dates, and **the network will download and process all TESS data within the given timespan and output predictions** for flares.

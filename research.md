@@ -18,7 +18,7 @@ Ultraviolet (UV) emission from stellar flares plays a crucial role in determinin
 What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most **comprehensive statistical analysis of UV flares** with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected **stellar flares are far-ultraviolet luminous**, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe (paper in press).
 <embed src="arxiv_fuvflares.pdf" type="application/pdf" width="80%" height=200>
 
-I've also been experimenting with data sonification; here's a sonified flare light curve in the near-UV with pitch corresponding to brightness. 
+I've also been experimenting with data sonification; here's a sonified flare light curve in the near-UV with pitch corresponding to brightness. This flare displays complex behaviour with multiple peaks in brightness.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GS9zs6-GDws?si=R0ovySS7AW7R5hLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -7,7 +7,7 @@ filename: research
 # Research
 
 I am primarily interested in how stars change on short timescales (even seconds or minutes!) and how those changes impact the surrounding environment.
-Currently, I study stellar flares and their potential impact on the habitability of orbiting planets.
+Currently, I study stellar flares and their potential impact on the habitability of orbiting planets. See my publications on ADS [].
 
 ## Stellar Flares
 Stellar flares are energetic bursts of radiation caused by a rapid reconfiguration of stellar magnetic fields. 
@@ -15,8 +15,8 @@ Stellar flares are energetic bursts of radiation caused by a rapid reconfigurati
 ### Flares in the UV
 Ultraviolet (UV) emission from stellar flares plays a crucial role in determining the **habitability** of exoplanetary systems. Flare UV emission may drive prebiotic chemistry, erode planetary atmospheres, or produce false biosignatures.
 
-What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most **comprehensive statistical analysis of UV flares** with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected **stellar flares are far-ultraviolet luminous**, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe (paper in press).
-<embed src="arxiv_fuvflares.pdf" type="application/pdf" width="80%" height=200>
+What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most **comprehensive statistical analysis of UV flares** with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected **stellar flares are far-ultraviolet luminous**, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe (MNRAS, 2024)
+<iframe src="https://academic.oup.com/mnras/article/532/4/4436/7725642" height="200"></iframe>
 
 I've also been experimenting with data sonification; here's a sonified flare light curve in the near-UV with pitch corresponding to brightness. This flare displays complex behaviour with multiple peaks in brightness.
 
@@ -37,7 +37,7 @@ Despite the importance of Type Ia supernovae (SNe Ia) as cosmological distance i
 
 As an intern at Carnegie Observatories, I conducted a spectroscopic analysis of 45 dim host galaxies of nearby supernovae detected by the All-Sky Automated Survey for Supernovae (ASAS-SN). Using the emission lines from our dataset I measured metallicities and star formation rates, and compared host galaxy properties to SDSS field galaxies and previous SN Ia host samples. 
 
-We find that the least massive hosts of Type Ia supernova may have higher metallicities than field galaxies of similar mass, and star formation activity representative of normal field galaxies.
+We find that the least massive hosts of Type Ia supernova may have higher metallicities than field galaxies of similar mass, and star formation activity representative of normal field galaxies (ApJ, 2023).
 
 <embed src="Holoien_Berger_2023_ApJ_950_108.pdf" type="application/pdf" width="80%" height=200>
 

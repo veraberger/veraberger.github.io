@@ -39,8 +39,6 @@ As an intern at Carnegie Observatories, I conducted a spectroscopic analysis of 
 
 We find that the least massive hosts of Type Ia supernova may have higher metallicities than field galaxies of similar mass, and star formation activity representative of normal field galaxies ([Holoien, Berger et al. 2023, ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/acce35)).
 
-<embed src="Holoien_Berger_2023_ApJ_950_108.pdf" type="application/pdf" width="80%" height=200>
-
 ## Side Projects
 ### Density and Age Estimates for Messier 15
 Globular clusters are collections of gravitationally-bound stars formed roughly all at once. Using photometry, we can construct color-magnitude diagrams alongside stellar evolution models to place constrains on the ages and distances of these clusters. 

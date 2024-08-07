@@ -7,7 +7,7 @@ filename: research
 # Research
 
 I am primarily interested in how stars change on short timescales (even seconds or minutes!) and how those changes impact the surrounding environment.
-Currently, I study stellar flares and their potential impact on the habitability of orbiting planets. See my publications on ADS [].
+Currently, I study stellar flares and their potential impact on the habitability of orbiting planets. 
 
 ## Stellar Flares
 Stellar flares are energetic bursts of radiation caused by a rapid reconfiguration of stellar magnetic fields. 
@@ -16,7 +16,6 @@ Stellar flares are energetic bursts of radiation caused by a rapid reconfigurati
 Ultraviolet (UV) emission from stellar flares plays a crucial role in determining the **habitability** of exoplanetary systems. Flare UV emission may drive prebiotic chemistry, erode planetary atmospheres, or produce false biosignatures.
 
 What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most **comprehensive statistical analysis of UV flares** with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected **stellar flares are far-ultraviolet luminous**, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe ([Berger et al. 2024, MNRAS](https://academic.oup.com/mnras/article/532/4/4436/7725642)).
-<iframe src="" height="200"></iframe>
 
 I've also been experimenting with data sonification; here's a sonified flare light curve in the near-UV with pitch corresponding to brightness. This flare displays complex behaviour with multiple peaks in brightness.
 

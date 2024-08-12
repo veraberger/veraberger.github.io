@@ -7,6 +7,8 @@ filename: resources
 # Resources
 
 ## For newer researchers
+[Advice](https://docs.google.com/document/d/1MJt40ohrfqzPla74eRr5QEvPqRaHs1git81ul_Qc3dk/edit?usp=sharing) for applying to graduate fellowships
+
 [Guide](https://docs.google.com/document/d/1dh7u1JdD8JzbkM0YIVQ0yufbrBcue_fwa0k-xOwCStw/edit?usp=sharing) to uploading a paper to arXiv for the first time
 
 Finding astronomy conferences and summer schools: [Canadian Astronomy Data Centre](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/this-year/) and [Conference Management Software](https://conference-service.com/conferences/gravitation-and-cosmology.html)

@@ -10,7 +10,7 @@ filename: index
 </div>
 
 ## Bio
-I am a first-year PhD student in Physics at the Massachusetts Institute of Technology (MIT), where I study high-energy astrophysics as an NSF Graduate Research Fellow and MIT Dean of Science Fellow. I recently pursued an MPhil in Scientific Computing at the University of Cambridge as a Churchill Scholar.
+I am a first-year PhD student in Physics at the Massachusetts Institute of Technology (MIT), where I study high-energy astrophysics as an NSF Graduate Research Fellow and MIT Dean of Science Fellow. I previously pursued an MPhil in Scientific Computing at the University of Cambridge as a Churchill Scholar.
 
 My research interests lie in the dynamic lives of stars. I study how stars change on the order of seconds to hours, and what those rapid changes can tell us about the structures of stars and the impact of their radiation on the surrounding environment.
 I have primarily studied stellar flares using simulation and observations across the electromagnetic spectrum to characterise the impact of flares on planetary habitability.

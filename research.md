@@ -6,7 +6,7 @@ filename: research
 
 # Research
 
-I am primarily interested in how stars change on short timescales (even seconds to minutes) and how those changes impact the surrounding environment.
+I am primarily interested in how stars change on short timescales (seconds to minutes) and how those changes impact the surrounding environment.
 Currently, I study stellar flares and their potential impact on the habitability of orbiting planets. 
 
 ## Stellar Flares

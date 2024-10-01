@@ -42,7 +42,7 @@ We find that the least massive hosts of Type Ia supernova may have higher metall
 ### Density and Age Estimates for Messier 15
 Globular clusters are collections of gravitationally-bound stars formed roughly all at once. Using photometry, we can construct color-magnitude diagrams alongside stellar evolution models to place constrains on the ages and distances of these clusters. 
 
-Itrook archival data from the Hubble Space Telescope's Advanced Camera for Surveys and performed multi-object aperture photometry on Messier 15, a dense globular cluster containing over 100,000 stars. I used images taken in two filters: a wide V-band filter called F606W, and  a filter bordering the near-infrared, F814W. Using $YY^2$ Yale Yonsei stellar evolution isochrones we estimate a minimum cluster age of 11.5 Gyrs, $\pm$ 1 Gyr. We compute a distance of $47,863$ pc.
+I took archival data from the Hubble Space Telescope's Advanced Camera for Surveys and performed multi-object aperture photometry on Messier 15, a dense globular cluster containing over 100,000 stars. I used images taken in two filters: a wide V-band filter called F606W, and  a filter bordering the near-infrared, F814W. Using $YY^2$ Yale Yonsei stellar evolution isochrones we estimate a minimum cluster age of 11.5 Gyrs, $\pm$ 1 Gyr. We compute a distance of $47,863$ pc.
 
 ### Photometric Variability of $\delta$ Scuti Stars
 $\delta$ Scuti is a class of variable stars that undergo radial oscillations. Like Cepheids, $\delta$ Scuti stars may be used as cosmological distance indicators, or "standard candles." Given photometric observational data, we can plot a star's light curve and glean information about how stellar properties like luminosity, temperature, and radius are correlated as the star pulsates. 

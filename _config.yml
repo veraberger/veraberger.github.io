@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 
 nav:
   - home: /
-  - about: /research/
+  - research: /research/
   - cv: /cv/
   
 gems:

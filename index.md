@@ -3,10 +3,14 @@ title: About
 layout: template
 filename: index
 --- 
-# Hi! I'm Vera. 
 
 <div style="display: flex; align-items: center;">
-    <img src="headshot_cam_cropped.jpg" alt="Headshot" style="margin: auto; width: 300px;">
+    <img src="headshot_cam_cropped.jpg" alt="Headshot" style="width: 300px; margin-right: 20px;">
+    <div>
+        <p>  <h2>Vera Berger</h2>
+            NSF Graduate Research Fellow & Dean of Science Fellow at MIT
+        </p>
+    </div>
 </div>
 
 ## Bio

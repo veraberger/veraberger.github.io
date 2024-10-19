@@ -9,15 +9,14 @@ filename: research
 I am primarily interested in how stars change on short timescales (seconds to minutes) and how those changes impact the surrounding environment.
 Currently, I study stellar flares and their potential impact on the habitability of orbiting planets. 
 
-# Stellar Flares
+## Stellar Flares
 Stellar flares are energetic bursts of radiation caused by a rapid reconfiguration of stellar magnetic fields. 
 
-## Flares in the UV
+### Flares in the UV
 Ultraviolet (UV) emission from stellar flares plays a crucial role in determining the **habitability** of exoplanetary systems. Flare UV emission may drive prebiotic chemistry, erode planetary atmospheres, or produce false biosignatures.
 
 What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most **comprehensive statistical analysis of UV flares** with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected **stellar flares are far-ultraviolet luminous**, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe ([Berger et al. 2024, MNRAS](https://academic.oup.com/mnras/article/532/4/4436/7725642)).
 
-#### Press
 This work was featured by [Space.com](https://www.space.com/red-dwarf-stars-uv-radation-harmful-to-life), the [American Geophysical Union](https://eos.org/articles/small-stars-produce-mighty-uv-flares), [University of Hawaii](https://www.hawaii.edu/news/2024/08/05/risks-to-planets-that-could-host-life/) and the [University of Cambridge](https://www.cam.ac.uk/research/news/astronomers-uncover-risks-to-planets-that-could-host-life).
 
 I've also been experimenting with data sonification; here's a sonified flare light curve in the near-UV with pitch corresponding to brightness. This flare displays complex behaviour with multiple peaks in brightness.
@@ -25,7 +24,7 @@ I've also been experimenting with data sonification; here's a sonified flare lig
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GS9zs6-GDws?si=R0ovySS7AW7R5hLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## Deep learning for flare detection
+### Deep learning for flare detection
 I'm developing a neural network to identify flares in 20-second cadence observations from the Transiting Exoplanet Survey Satellite (TESS). With this model, a user can input a target name and observation dates, and **the network will download and process all TESS data within the given timespan and output predictions** for flares.
 
 <div style="display: flex; align-items: center;">
@@ -34,14 +33,14 @@ I'm developing a neural network to identify flares in 20-second cadence observat
 
 While the model is in the final stages of development, the project is available on [GitHub](https://github.com/veraberger/flarenet).
 
-# Supernova Host Galaxies
+## Supernova Host Galaxies
 Despite the importance of Type Ia supernovae (SNe Ia) as cosmological distance indicators, much remains unknown about the environments in which they happen. Past studies have shown that supernova properties relate to host galaxy properties, and that SN Ia host galaxies are similar to random field galaxies. Research on host properties has largely focused on more luminous galaxies, leaving low-luminosity hosts under-sampled. 
 
 As an intern at Carnegie Observatories, I conducted a spectroscopic analysis of 45 dim host galaxies of nearby supernovae detected by the All-Sky Automated Survey for Supernovae (ASAS-SN). Using the emission lines from our dataset I measured metallicities and star formation rates, and compared host galaxy properties to SDSS field galaxies and previous SN Ia host samples. 
 
 We find that the least massive hosts of Type Ia supernova may have higher metallicities than field galaxies of similar mass, and star formation activity representative of normal field galaxies ([Holoien, Berger et al. 2023, ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/acce35)).
 
-# Side Projects
+## Side Projects
 ### Density and Age Estimates for Messier 15
 Globular clusters are collections of gravitationally-bound stars formed roughly all at once. Using photometry, we can construct color-magnitude diagrams alongside stellar evolution models to place constrains on the ages and distances of these clusters. 
 

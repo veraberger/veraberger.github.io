@@ -4,5 +4,10 @@ google_analytics: googleb95e52e52f7717ce.html
 show_downloads: true
 theme: jekyll-theme-minimal
 
+nav:
+  - home: /
+  - about: /research/
+  - cv: /cv/
+  
 gems:
   - jekyll-mentions

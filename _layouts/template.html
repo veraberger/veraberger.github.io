@@ -13,9 +13,16 @@
     <section class="page-header">
       <h1 class="project-name">VERA BERGER</h1>
       <h2 class="project-tagline"></h2>
+      {% comment %}
       {% for page in site.pages %}
         <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
       {% endfor %}
+      {% endcomment %}
+      <a href="/" class="btn">Home</a>
+    <a href="/about/" class="btn">Research</a>
+    <a href="/cv/" class="btn">CV</a>
+
+      
     </section>
 
     <section class="main-content">

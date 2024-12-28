@@ -20,4 +20,4 @@ I developed magnetohydrodynamic simulations of the  magnetic processes that caus
 
 I previously graduated from Pomona College, where I studied supernova host galaxies and the combinatorics of partially ordered sets.
 
-Outside of science, I play roller derby and cook a dish from a different country each week.
+<!--- Outside of science, I play roller derby and cook a dish from a different country each week. --->

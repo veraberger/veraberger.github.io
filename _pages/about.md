@@ -6,7 +6,7 @@ subtitle: NSF GRFP Fellow at MIT
 
 profile:
   align: right
-  image: headshot_cam_cropped.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info:  >
     <p>Kavli Institute for Astrophysics and Space Research  </p>

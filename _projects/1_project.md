@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Magnetic reconnection
-description: Orszag-Tang plasma vortex
+title: Computational magnetohydrodynamics
+description: 
 img: assets/img/orrszagtang.gif
 importance: 1
 category: work

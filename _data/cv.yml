@@ -67,29 +67,29 @@
 - title: Recent Presentations
   type: time_table
   contents:
-    - year: 07/2024
-      description: NASA GSFC Exoplanet Seminar Series
-    - year: 06/2024
-      description: Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun
-    - year: 05/2024
-      description: University of Cambridge Centre for Scientific Computing Seminar
-    - year: 01/2024
-      description: University of Hawai'i Astro-ph Journal Club
+    - title: NASA GSFC Exoplanet Seminar Series
+      year: 07/2024
+    - title: Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun
+      year: 06/2024
+    - title: University of Cambridge Centre for Scientific Computing Seminar
+      year: 05/2024
+    - title: University of Hawai'i Astro-ph Journal Club
+      year: 01/2024
 
 - title: TA Experience
   type: time_table
   contents:
-    - year: Spring 2022
-      description: Advanced Introductory Astronomy, Pomona College
-    - year: Spring 2021
-      description: Galaxies and Cosmology, Pomona College
-    - year: Spring 2021
-      description: Real Analysis I, Pomona College
-    - year: Fall 2020
-      description: Honors Calculus II, Pomona College
-    - year: Summer 2020, 2021
-      description: 1-2-1 Math Bridge Program
-
+    - title: Advanced Introductory Astronomy, Pomona College
+      year: Spring 2022
+    - title: Galaxies and Cosmology, Pomona College
+      year: Spring 2021
+    - title: Real Analysis I, Pomona College
+      year: Spring 2021
+    - title: Honors Calculus II, Pomona College
+      year: Fall 2020
+    - title: 1-2-1 Math Bridge Program
+      year: Summer 2020, 2021
+    
 - title: Selected Honors
   type: time_table
   contents:

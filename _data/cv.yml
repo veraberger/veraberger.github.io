@@ -99,11 +99,14 @@
       year: 2024-2027
     - title: Churchill Scholarship
       year: 2023-2024
-    - title: Frank Parkhurst Brackett, Jr., and Davida Wark Brackett Prize, Pomona College (outstanding astro. thesis)
+    - title: Frank Parkhurst Brackett, Jr., and Davida Wark Brackett Prize, Pomona College
       year: 2023
-    - title: Bruce Jay Levy Prize, Pomona College (outstanding senior in mathematics)
+      description: outstanding astronomy thesis
+    - title: Bruce Jay Levy Prize, Pomona College 
       year: 2023
-    - title: Senior Service Award, Pomona College (significant contributions to the College and its programs)
+      description: outstanding senior in mathematics
+    - title: Senior Service Award, Pomona College 
       year: 2023
+      description: significant contributions to the College and its programs
     - title: National Merit Scholarship
       year: 2019

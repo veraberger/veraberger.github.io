@@ -13,10 +13,10 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a first-year PhD student in Physics at MIT where I study the high-energy physics of outbursts in stellar-black hole systems.
+I am a first-year PhD student in Physics at MIT, where I study conduct spectral timing analysis of some of the fastest and highest-energy astrophysical outbursts in the universe.
 
-Prior to joining MIT, I studied stellar flares using simulations and multiwavelength observations to investigate the impact of flares on planetary habitability.
-I developed magnetohydrodynamic simulations of the  magnetic processes that cause stellar flares as a Churchill Scholar at the University of Cambridge.
+Prior to joining MIT, I studied stellar flares, using simulations and multiwavelength observations to investigate the impact of flares on planetary habitability.
+I developed magnetohydrodynamic simulations of the magnetic processes that cause stellar flares as a Churchill Scholar at the University of Cambridge.
 
 I previously graduated from Pomona College, where I studied supernova host galaxies and the combinatorics of partially ordered sets.
 

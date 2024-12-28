@@ -2,96 +2,105 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Vera Berger
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD Student in Physics
+      institution: Massachusetts Institute of Technology, Cambridge, MA
+      year: 2024-
+    - title: MPhil in Scientific Computing
+      institution: University of Cambridge, Cambridge, UK
+      year: 2024
+    - title: BA in Mathematics and Physics
+      institution: Pomona College, Claremont, CA
+      year: 2023
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: NSF REU Research Intern
+      institution: University of Hawai'i at Mānoa
+      year: 05/2022 - 08/2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        Multiwavelength characterization of stellar flares
+    - title: OSTEM Intern
+      institution: NASA Goddard Space Flight Center
+      year: 06/2023 - 06/2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        Neural network for stellar flare identification
+    - title: Undergraduate Researcher
+      institution: Pomona College
+      year: 03/2020 - 12/2022
       description:
+        Combinatorics of partially ordered sets
+        
+        
+    - title: CASSI Intern
+      institution: Carnegie Observatories
+      year: 05/2021 - 08/2021
+      description:
+        Spectroscopic analysis of Type Ia supernova host galaxies
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Leadership Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Student Body President
+      institution: Pomona College
+      year: 05/2022 - 05/2023
+    - title: Vice Chair, Board of Trustees Student Affairs Committee
+      institution: Pomona College
+      year: 05/2022 - 05/2023
+    - title: Chair, Judicial Council
+      institution: Pomona College
+      year: 05/2021 - 05/2022
 
-- title: Honors and Awards
+- title: Presentations
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: NASA GSFC Exoplanet Seminar Series
+      year: 07/25/2024
+      description: "*Invited Talk*"
+    - title: Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun
+      year: 06/27/2024
+      description: Presented on stellar flares and UV radiation impacts.
+    - title: University of Cambridge Centre for Scientific Computing Seminar
+      year: 05/15/2024
+    - title: University of Hawai'i Astro-ph Journal Club
+      year: 01/11/2024
+      description: "*Invited Talk*"
+    - title: Summer Symposium, NASA Goddard Astrophysics Science Division
+      year: 08/08/2023
 
-- title: Academic Interests
-  type: nested_list
+- title: TA Experience
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Advanced Introductory Astronomy, Pomona College
+      year: Spring 2022
+    - title: Galaxies and Cosmology, Pomona College
+      year: Spring 2021
+    - title: Real Analysis I, Pomona College
+      year: Spring 2021
+    - title: Honors Calculus II, Pomona College
+      year: Fall 2020
+    - title: 1-2-1 Math Bridge Program
+      year: Summer 2020, 2021
 
-- title: Other Interests
-  type: list
+- title: Selected Honors
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: NSF Graduate Research Fellowship
+      year: 2024-2029
+    - title:  MIT Dean of Science Fellowship
+      year: 2024-2027
+    - title: Churchill Scholarship
+      year: 2023-2024
+    - title: Frank Parkhurst Brackett, Jr., and Davida Wark Brackett Prize, Pomona College (outstanding astro. thesis)
+      year: 2023
+    - title: Bruce Jay Levy Prize, Pomona College (outstanding senior in mathematics)
+      year: 2023
+    - title: Senior Service Award, Pomona College (significant contributions to the College and its programs)
+      year: 2023
+    - title: National Merit Scholarship
+      year: 2019

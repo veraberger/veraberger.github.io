@@ -371,9 +371,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-magnetic-reconnection",
-          title: 'Magnetic reconnection',
-          description: "Orszag-Tang plasma vortex",
+          section: "News",},{id: "projects-computational-magnetohydrodynamics",
+          title: 'Computational magnetohydrodynamics',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-stellar-flares",

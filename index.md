@@ -14,9 +14,12 @@ filename: index
 </div>
 
 ## About
-I am a first-year PhD student in Physics at the Massachusetts Institute of Technology (MIT) where I research high-energy astrophysics. I recently pursued an MPhil in Scientific Computing at the University of Cambridge as a Churchill Scholar.
+I am a first-year PhD student in Physics at the Massachusetts Institute of Technology (MIT). I use spectral timing analysis to study the high-energy physics of outbursts in stellar-black hole systems.
 
-My research focuses on the dynamic behavior of stars, particularly how they change on timescales from seconds to hours, and how these rapid changes inform our understanding of stellar structures and their influence on surrounding environments. I have primarily studied stellar flares, using simulations and multiwavelength observations to investigate their impact on planetary habitability.
+<!-- My research has focused broadly on the dynamic behavior of stars and black holes, how they change on timescales from seconds to years, and how these rapid changes inform our understanding of stellar structures and their influence on surrounding environments.  -->
+
+Prior to joining MIT, I primarily studied stellar flares using simulations and multiwavelength observations to investigate their impact on planetary habitability.
+I completed an MPhil in Scientific Computing at the University of Cambridge, where I developed fluid dynamics codes as a Churchill Scholar.
 My master's thesis focused on magnetohydrodynamic simulations of magnetic reconnection, a fundamental but mysterious change in stellar magnetic field topology which produces stellar flares.
 
 I graduated from Pomona College in 2023 with majors in mathematics and physics. While at Pomona, I pursued additional projects on supernova host galaxies and partially ordered sets. I worked as a teaching assistant and Student Body President.

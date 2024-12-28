@@ -18,7 +18,7 @@ Ultraviolet (UV) emission from stellar flares plays a crucial role in determinin
 
 What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most **comprehensive statistical analysis of UV flares** with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected **stellar flares are far-ultraviolet luminous**, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe ([Berger et al. 2024, MNRAS](https://academic.oup.com/mnras/article/532/4/4436/7725642)).
 
-Our fir [Space.com](https://www.space.com/red-dwarf-stars-uv-radation-harmful-to-life), the [American Geophysical Union](https://eos.org/articles/small-stars-produce-mighty-uv-flares), [University of Hawaii](https://www.hawaii.edu/news/2024/08/05/risks-to-planets-that-could-host-life/) and the [University of Cambridge](https://www.cam.ac.uk/research/news/astronomers-uncover-risks-to-planets-that-could-host-life).
+Our work was featured by [Space.com](https://www.space.com/red-dwarf-stars-uv-radation-harmful-to-life), the [American Geophysical Union](https://eos.org/articles/small-stars-produce-mighty-uv-flares), [University of Hawaii](https://www.hawaii.edu/news/2024/08/05/risks-to-planets-that-could-host-life/) and the [University of Cambridge](https://www.cam.ac.uk/research/news/astronomers-uncover-risks-to-planets-that-could-host-life).
 
 I've also been experimenting with data sonification; here's a sonified light curve where brightness of the flare is mapped to pitch. This flare displays complex behaviour with multiple peaks in brightness.
 

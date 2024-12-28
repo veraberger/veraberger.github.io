@@ -21,35 +21,29 @@
   type: time_table
   contents:
    - title: Graduate Researcher
-      institution: Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology
-      year: 09/2024-
-      description:
-        Spectral timing analysis of fast astrophysical outbursts
+     institution: Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology
+     year: 09/2024-
+     description: Spectral timing analysis of fast astrophysical outbursts
   - title: Postgraduate Researcher
-      institution: Centre for Scientific Computing, University of Cambridge
-      year: 10/2023-09/2024
-      description:
-        Fluid simulations of magnetic reconnection in plasmas
-    - title: NSF REU Intern
-      institution: University of Hawai'i at Mānoa
-      year: 05/2022 - 08/2024
-      description:
-        Multiwavelength characterization of stellar flares
-    - title: OSTEM Intern
-      institution: NASA Goddard Space Flight Center
-      year: 06/2023 - 06/2024
-      description:
-        Neural network for stellar flare classification
-    - title: Undergraduate Researcher
-      institution: Pomona College
-      year: 03/2020 - 12/2022
-      description:
-        Combinatorics of partially ordered sets
-    - title: CASSI Intern
-      institution: Carnegie Observatories
-      year: 05/2021 - 08/2021
-      description:
-        Spectroscopic analysis of Type Ia supernova host galaxies
+    institution: Centre for Scientific Computing, University of Cambridge
+    year: 10/2023-09/2024
+    description: Fluid simulations of magnetic reconnection in plasmas
+  - title: NSF REU Intern
+    institution: University of Hawai'i at Mānoa
+    year: 05/2022 - 08/2024
+    description: Multiwavelength characterization of stellar flares
+  - title: OSTEM Intern
+    institution: NASA Goddard Space Flight Center
+    year: 06/2023 - 06/2024
+    description: Neural network for stellar flare classification
+  - title: Undergraduate Researcher
+    institution: Pomona College
+    year: 03/2020 - 12/2022
+    description: Combinatorics of partially ordered sets
+  - title: CASSI Intern
+    institution: Carnegie Observatories
+    year: 05/2021 - 08/2021
+    description: Spectroscopic analysis of Type Ia supernova host galaxies
 
 - title: Leadership Experience
   type: time_table

@@ -17,10 +17,20 @@
       institution: Pomona College, Claremont, CA
       year: 2023
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: NSF REU Research Intern
+   - title: Graduate Researcher
+      institution: Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology
+      year: 09/2024-
+      description:
+        Spectral timing analysis of fast astrophysical outbursts
+  - title: Postgraduate Researcher
+      institution: Centre for Scientific Computing, University of Cambridge
+      year: 10/2023-09/2024
+      description:
+        Fluid simulations of magnetic reconnection in plasmas
+    - title: NSF REU Intern
       institution: University of Hawai'i at Mānoa
       year: 05/2022 - 08/2024
       description:
@@ -29,14 +39,12 @@
       institution: NASA Goddard Space Flight Center
       year: 06/2023 - 06/2024
       description:
-        Neural network for stellar flare identification
+        Neural network for stellar flare classification
     - title: Undergraduate Researcher
       institution: Pomona College
       year: 03/2020 - 12/2022
       description:
         Combinatorics of partially ordered sets
-        
-        
     - title: CASSI Intern
       institution: Carnegie Observatories
       year: 05/2021 - 08/2021
@@ -48,30 +56,25 @@
   contents:
     - title: Student Body President
       institution: Pomona College
-      year: 05/2022 - 05/2023
+      year: 2022-2023
     - title: Vice Chair, Board of Trustees Student Affairs Committee
       institution: Pomona College
-      year: 05/2022 - 05/2023
+      year:  2022-2023
     - title: Chair, Judicial Council
       institution: Pomona College
-      year: 05/2021 - 05/2022
+      year:  2021-2022
 
-- title: Presentations
+- title: Recent Presentations
   type: time_table
   contents:
     - title: NASA GSFC Exoplanet Seminar Series
-      year: 07/25/2024
-      description: "*Invited Talk*"
+      year: 07/2024
     - title: Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun
-      year: 06/27/2024
-      description: Presented on stellar flares and UV radiation impacts.
+      year: 06/2024
     - title: University of Cambridge Centre for Scientific Computing Seminar
-      year: 05/15/2024
+      year: 05/2024
     - title: University of Hawai'i Astro-ph Journal Club
-      year: 01/11/2024
-      description: "*Invited Talk*"
-    - title: Summer Symposium, NASA Goddard Astrophysics Science Division
-      year: 08/08/2023
+      year: 01/2024
 
 - title: TA Experience
   type: time_table

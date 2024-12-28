@@ -16,10 +16,8 @@ filename: index
 ## About
 I am a first-year PhD student in Physics at MIT where I study the high-energy physics of outbursts in stellar-black hole systems.
 
-<!-- My research has focused broadly on the dynamic behavior of stars and black holes, how they change on timescales from seconds to years, and how these rapid changes inform our understanding of stellar structures and their influence on surrounding environments.  -->
-
 Prior to joining MIT, I studied stellar flares using simulations and multiwavelength observations to investigate the impact of flares on planetary habitability.
-As a Churchill Scholar at the University of Cambridge, I developed magnetohydrodynamic simulations of magnetic reconnection, a mysterious change in magnetic field topology that causes stellar flares.
+I developed magnetohydrodynamic simulations of the  magnetic processes that cause stellar flares as a Churchill Scholar at the University of Cambridge.
 
 I previously graduated from Pomona College, where I studied supernova host galaxies and the combinatorics of partially ordered sets.
 

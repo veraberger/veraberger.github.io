@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://veraberger.github.io/sitemap.xml

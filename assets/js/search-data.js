@@ -377,7 +377,7 @@ ninja.data = [{
           title: 'Started at MIT!',
           description: "",
           section: "News",},{id: "projects-computational-plasma-physics",
-          title: 'Computational plasma physics',
+          title: 'computational plasma physics',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";

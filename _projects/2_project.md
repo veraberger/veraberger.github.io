@@ -2,7 +2,7 @@
 layout: page
 title: Stellar Flares
 description: 
-img: assets/img/3.jpg
+img: assets/img/flarelcs.jpg
 importance: 1
 category: work
 ---

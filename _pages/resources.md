@@ -16,7 +16,7 @@ My qualifications: I am a 2023-24 Churchill Scholar, Marshall Scholarship finali
 
 # General advice
 
-- The most helpful advice I received: show reviewers why it would be a *tragedy* for you not to pursue your program of choice. Take lots of time to figure out what you can say about your experience and goals that nobody else can.
+- The most helpful advice I received: show reviewers why it would be a *tragedy* for you not to pursue your program of choice.
 
 - Apply for any and all funding that  1) you are eligible for, and 2) will allow you to pursue your program of choice,
 whether that be Gates Cambridge, Churchill, Marshall, Rhodes, Mitchell, or internal university scholarships. 

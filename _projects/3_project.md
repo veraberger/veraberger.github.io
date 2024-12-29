@@ -5,7 +5,6 @@ description:
 img: assets/img/publication_preview/holoien23.png
 importance: 3
 category: work
-giscus_comments: true
 ---
 
 Despite the importance of Type Ia supernovae (SNe Ia) as cosmological distance indicators, much remains unknown about the environments in which they happen. Past studies have shown that supernova properties relate to host galaxy properties, and that SN Ia host galaxies are similar to random field galaxies. Research on host properties has largely focused on more luminous galaxies, leaving low-luminosity hosts under-sampled. 

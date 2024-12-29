@@ -39,7 +39,25 @@
       year: 2021
       description: Spectroscopic analysis of Type Ia supernova host galaxies
 
-- title: Leadership Experience
+- title: Teaching and Mentoring
+  type: time_table
+  contents:
+    - title: Mentor, MIT Physics Graduate Application Assistance Program 
+      year: 2024-
+    - title: Mentor, MIT Womxn in Physics Mentorship Program
+      year: 2024-
+    - title: TA, Advanced Introductory Astronomy, Pomona College
+      year: Spring 2022
+    - title: TA, Galaxies and Cosmology, Pomona College
+      year: Spring 2021
+    - title: TA, Real Analysis I, Pomona College
+      year: Spring 2021
+    - title: TA, Honors Calculus II, Pomona College
+      year: Fall 2020
+    - title: TA, 1-2-1 Math Bridge Program
+      year: Summer 2020, 2021
+
+- title: Leadership
   type: time_table
   contents:
     - title: Student Body President
@@ -52,32 +70,7 @@
       institution: Pomona College
       year:  2021-2022
 
-- title: Recent Presentations
-  type: time_table
-  contents:
-    - title: NASA GSFC Exoplanet Seminar Series
-      year: 07/2024
-    - title: Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun
-      year: 06/2024
-    - title: University of Cambridge Centre for Scientific Computing Seminar
-      year: 05/2024
-    - title: University of Hawai'i Astro-ph Journal Club
-      year: 01/2024
-
-- title: TA Experience
-  type: time_table
-  contents:
-    - title: Advanced Introductory Astronomy, Pomona College
-      year: Spring 2022
-    - title: Galaxies and Cosmology, Pomona College
-      year: Spring 2021
-    - title: Real Analysis I, Pomona College
-      year: Spring 2021
-    - title: Honors Calculus II, Pomona College
-      year: Fall 2020
-    - title: 1-2-1 Math Bridge Program
-      year: Summer 2020, 2021
-    
+  
 - title: Selected Honors
   type: time_table
   contents:
@@ -100,3 +93,15 @@
       description: significant contributions to the College and its programs
     - title: National Merit Scholarship
       year: 2019
+      
+- title: Recent Presentations
+  type: time_table
+  contents:
+    - title: NASA GSFC Exoplanet Seminar Series
+      year: 07/2024
+    - title: Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun
+      year: 06/2024
+    - title: University of Cambridge Centre for Scientific Computing Seminar
+      year: 05/2024
+    - title: University of Hawai'i Astro-ph Journal Club
+      year: 01/2024

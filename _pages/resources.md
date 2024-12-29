@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-A laundry list of advice for applying to the Churchill, NSF GRFP, and Marshall scholarships.
+The most helpful advice I received or wish I had when applying to the Churchill, NSF GRFP, and Marshall scholarships.
 
 My qualifications: I am a 2023-24 Churchill Scholar, Marshall Scholarship finalist, and 2x NSF GRFP recipient. 
 <!--- I went through two rounds of astronomy and physics graduate applications, and was accepted to 7/10 PhD programs my second time applying, including Harvard astronomy and MIT physics.  --->
@@ -31,10 +31,10 @@ Receiving a rejection from any one program says little about your competitivenes
 
 **I’m on the fence. How do I know if I should apply?**  
 - If you are interested, eligible, and have time to complete the application, do consider applying. 
-There is an opportunity cost—these applications are time-intensive and you may want more time to work, research, apply to jobs, enjoy your final year of undergrad etc.  
-However, this is a question often asked by people who are underrepresented in science. 
+- There is an opportunity cost: these applications are time-intensive and you may want more time to work, research, apply to jobs, enjoy your final year of undergrad etc.  
+- This is a question often asked by people who are underrepresented in science. 
 I almost did not apply because I thought I had no chance, and changed my mind after one person encouraged me. 
-If you need that encouragement, here it is.
+  *If you need that encouragement, here it is.*
 
 **Do I need to reach out to potential supervisors before applying?**  
 - Yes, if you’re applying for a research-based MPhil (check the Churchill scholarship website for requirements)
@@ -57,7 +57,7 @@ If supervisors express any openness to working with you, include that in your Pr
 
 ## General
 
-This section is slim because there is a wealth of existing resources on GRFP applications (e.g. [Alex Lang's page](https://www.alexhunterlang.com/nsf-fellowship))
+This section is slim because there is a wealth of existing resources on GRFP applications (e.g. from [Alex Lang](https://www.alexhunterlang.com/nsf-fellowship) and [Tara Safavi](https://tsafavi.github.io/nsf-grfp.html))
 
 Check your eligibility for other federally funded fellowships:  
 - National Defense Science and Engineering Graduate Fellowship Program (NDSEG)  

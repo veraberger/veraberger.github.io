@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stellar Flares
+title: stellar flares in the UV
 description: 
 img: assets/img/flarelcs.jpg
 importance: 1

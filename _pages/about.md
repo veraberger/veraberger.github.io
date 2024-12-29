@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: NSF GRFP Fellow at MIT
+subtitle: NSF Graduate Research Fellow at MIT
 
 profile:
   align: right

@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-graduate-fellowships-advice",
-          title: "graduate fellowships advice",
+        },{id: "nav-fellowships-advice",
+          title: "fellowships advice",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/fellowships/";
           },
         },{id: "post-a-post-with-image-galleries",
       

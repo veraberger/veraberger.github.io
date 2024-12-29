@@ -3,7 +3,7 @@ layout: page
 title: Computational plasma physics
 description: 
 img: assets/img/orrszagtang.gif
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---

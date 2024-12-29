@@ -1,7 +1,7 @@
 ---
 layout: page
-title: graduate fellowships advice
-permalink: /projects/
+title: fellowships advice
+permalink: /fellowships/
 description:
 nav: true
 nav_order: 8

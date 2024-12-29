@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: NSF Graduate Research Fellow at MIT
+subtitle: NSF Graduate Research Fellow at MIT Kavli Institute for Astrophysics and Space Research
 
 profile:
   align: right

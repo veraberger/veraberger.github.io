@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supernova Host Galaxies
+title: supernova host galaxies
 description: 
 img: assets/img/publication_preview/holoien23.png
 importance: 3

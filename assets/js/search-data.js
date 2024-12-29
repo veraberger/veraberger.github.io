@@ -387,7 +387,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-supernova-host-galaxies",
-          title: 'Supernova Host Galaxies',
+          title: 'supernova host galaxies',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";

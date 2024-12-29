@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computational plasma physics
+title: computational plasma physics
 description: 
 img: assets/img/orrszagtang.gif
 importance: 2

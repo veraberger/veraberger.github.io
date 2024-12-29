@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computational magnetohydrodynamics
+title: Computational plasma physics
 description: 
 img: assets/img/orrszagtang.gif
 importance: 1
@@ -14,5 +14,5 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    Work in progress.
+    This page is under construction! Check back soon!
 </div>

@@ -381,8 +381,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-stellar-flares",
-          title: 'Stellar Flares',
+            },},{id: "projects-stellar-flares-in-the-uv",
+          title: 'stellar flares in the UV',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";

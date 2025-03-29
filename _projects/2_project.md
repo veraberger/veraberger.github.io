@@ -9,8 +9,6 @@ category: work
 
 Stellar flares are energetic bursts of radiation caused by rapid realignments of magnetic fields on the surface of a star. These events release energy across the electromagnetic spectrum, from radio waves to X-rays, with significant implications for planetary atmospheres and surface conditions.
 
-### Flares in the UV
-
 Ultraviolet (UV) emission from stellar flares plays a crucial role in determining the **habitability** of exoplanetary systems. Flare UV emission may drive prebiotic chemistry, erode planetary atmospheres, or produce false biosignatures.
 
 What began as an NSF-REU project at the University of Hawaii to search for stellar flares became the most **comprehensive statistical analysis of UV flares** with simultaneous observations in near- and far-ultraviolet. We showed for the first time that uniformly selected **stellar flares are far-ultraviolet luminous**, and widely-used assumptions for flare emission significantly underestimate the levels of FUV emission we observe ([Berger et al. 2024, MNRAS](https://academic.oup.com/mnras/article/532/4/4436/7725642)).

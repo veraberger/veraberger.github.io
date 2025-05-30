@@ -2,7 +2,7 @@
 layout: page
 title: curse of the bambino
 description: 
-img: assets/img/bambino_curse
+img: assets/img/bambino_curse.jpg
 importance: 1
 category: fun
 ---

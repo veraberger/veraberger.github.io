@@ -13,7 +13,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a first-year PhD student in Physics at MIT, where I use multiwavelength observations of compact objects to study their variability on timescales ranging from microseconds to years.
+I am a second-year PhD student in Physics at MIT, where I use multiwavelength observations of compact objects to study their variability on timescales ranging from microseconds to years.
 
 Prior to joining MIT, I studied stellar flares, using theory and observation to investigate the impact of flares on planetary habitability.
 I pursued an MPhil in Scientific Computing at the University of Cambridge, where I developed magnetohydrodynamic simulations of the magnetic processes that cause stellar flares.

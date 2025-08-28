@@ -13,8 +13,5 @@ Often described as a **breakdown of ideal magnetohydrodynamics**, magnetic recon
 I developed and validated a Hall magnetohydrodynamics module for the Athena++ code and studied properties of Hall reconnection as a function of 
 of mathematical formulations for global plasma dynamics, theoretical models for reconnection, and initial conditions.
 
-<div style="display: flex; align-items: center;">
-    <img src="/assets/pdf/berger_poster_mphil_csc.pdf" alt="Magnetic reconnection poster" style="width: 600px;">
-</div>
-
+<embed src="/assets/pdf/berger_poster_mphil_csc.pdf" type="application/pdf" width="600px" height="400px" />
 

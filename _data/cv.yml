@@ -91,17 +91,15 @@
     - title: Senior Service Award, Pomona College 
       year: 2023
       description: significant contributions to the College and its programs
-    - title: National Merit Scholarship
-      year: 2019
       
 - title: Recent Presentations
   type: time_table
   contents:
+   - title: AAS High Energy Astrophysics Division Meeting (HEAD 22)
+      year: 10/2025
     - title: NASA GSFC Exoplanet Seminar Series
       year: 07/2024
     - title: Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun
       year: 06/2024
     - title: University of Cambridge Centre for Scientific Computing Seminar
       year: 05/2024
-    - title: University of Hawai'i Astro-ph Journal Club
-      year: 01/2024

@@ -1,7 +1,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Student in Physics
+    - title: PhD Candidate in Physics
       institution: Massachusetts Institute of Technology, Cambridge, MA
       year: 2024-
     - title: MPhil in Scientific Computing
@@ -17,7 +17,7 @@
     - title: Graduate Researcher
       institution: Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology
       year: 09/2024-
-      description: Spectral timing analysis of fast astrophysical outbursts
+      description: Spectral timing of black hole transients
     - title: Postgraduate Researcher
       institution: Centre for Scientific Computing, University of Cambridge
       year: 2023-2024
@@ -95,11 +95,11 @@
 - title: Recent Presentations
   type: time_table
   contents:
+    - title: Black Holes Oxford
+      year: 03/2026
     - title: AAS High Energy Astrophysics Division Meeting (HEAD 22)
       year: 10/2025
     - title: NASA GSFC Exoplanet Seminar Series
       year: 07/2024
     - title: Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun
       year: 06/2024
-    - title: University of Cambridge Centre for Scientific Computing Seminar
-      year: 05/2024

@@ -7,7 +7,9 @@ importance: 4
 category: work
 ---
 
-**flarenet** is a convolutional neural network used to predict flares in 20-second cadence data from NASA's Transiting Exoplanet Survey Satellite (TESS).
+
+
+**flarenet** is a convolutional neural network used to predict stellar flares in 20-second cadence data from NASA's Transiting Exoplanet Survey Satellite (TESS).
 
 With a single line of code, you can generate flare predictions for any TESS 20-s target.
 
@@ -15,4 +17,6 @@ With a single line of code, you can generate flare predictions for any TESS 20-s
     <img src="/assets/img/flare_predictions.png" alt="Flare predictions" style="width: 600px;">
 </div>
 
-The model is open-source on [GitHub](https://github.com/veraberger/flarenet).
+Installation: ```pip install flarenet20```
+
+Tutorial and source code on [GitHub](https://github.com/veraberger/flarenet)

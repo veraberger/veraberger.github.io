@@ -3,7 +3,7 @@ layout: page
 title: stellar flares in the UV
 description: 
 img: assets/img/flarelcs.jpg
-importance: 1
+importance: 2
 category: work
 ---
 

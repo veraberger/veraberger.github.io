@@ -14,4 +14,6 @@ A class of transients called tidal disruption events, where a star is torn apart
 
 Here is an example of some of my recent work on the TDE AT2019teq, which formed an corona of billion-degree plasma in the years post discovery and shows exceptional variability:
 
-<embed src="/assets/pdf/berger_vera_TDE_at2019teq_poster.pdf" type="application/pdf" width="600px" height="400px" />
+<embed src="/assets/pdf/berger_vera_TDE_at2019teq_poster.pdf" type="application/pdf" width="600px" height="400px" 
+
+GIF credit: NASA GSFC

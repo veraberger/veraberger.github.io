@@ -19,9 +19,5 @@ nav_order: 3
 
 {% bibliography --query @*[author_position=first] %}
 
-{% comment %}
-<h2>Co-authored</h2>
-{% bibliography --query @*[author_position=co] %}
-{% endcomment %}
 
 </div>

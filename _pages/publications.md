@@ -15,6 +15,10 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography %}
+<h2>First-author</h2>
+{% bibliography --query @*[author_position=first] %}
+
+<h2>Co-authored</h2>
+{% bibliography --query @*[author_position=co] %}
 
 </div>

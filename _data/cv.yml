@@ -95,11 +95,14 @@
 - title: Recent Presentations
   type: time_table
   contents:
-    - title: Black Holes Oxford
+    - title: A NICER Legacy: Neutron Stars, Black Holes, and Time-Domain Astronomy
+      year: 11/2026
+    - title: AAS 248
+      year: 06/2026
+    - title: BlackHolistic 2026: black hole accretion and how it shapes the cosmos
       year: 03/2026
+    - title: University of Hawaii Astrocoffee
+      year: 01/2026
     - title: AAS High Energy Astrophysics Division Meeting (HEAD 22)
       year: 10/2025
-    - title: NASA GSFC Exoplanet Seminar Series
-      year: 07/2024
-    - title: Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun
-      year: 06/2024
+

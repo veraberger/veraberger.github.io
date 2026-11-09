@@ -15,7 +15,7 @@ nav_order: 3
 
 <div class="publications">
 
-<p>Full publications list on <a href="https://scixplorer.org/public-libraries/Eb-XcR2BQCGhyIXMlEHfWw" target="_blank" rel="noopener">SciX</a>.</p>
+<p> See full list of publications on <a href="https://scixplorer.org/public-libraries/Eb-XcR2BQCGhyIXMlEHfWw" target="_blank" rel="noopener">SciX</a>.</p>
 
 {% bibliography %}
 
